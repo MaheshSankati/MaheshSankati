@@ -1,4 +1,4 @@
-## Hi there I'm Mahesh👋
+## Hey there, I'm Mahesh👋
 
 <!--
 **MaheshSankati/MaheshSankati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
